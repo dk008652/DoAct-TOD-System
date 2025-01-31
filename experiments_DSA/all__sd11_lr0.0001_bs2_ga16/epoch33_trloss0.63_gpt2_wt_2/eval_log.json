@@ -1,0 +1,249 @@
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 41.16 min
+INFO:root:Scoring time: 0.20 min
+INFO:root:validation [CTR] match: 94.70  success: 84.00  bleu: 17.75    score: 107.10
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7365
+INFO:root:  Num Dialogs = 999
+INFO:root:inference time: 40.72 min
+INFO:root:Scoring time: 0.20 min
+INFO:root:validation [CTR] match: 93.59  success: 82.88  bleu: 17.27    score: 105.51
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 8.21 min
+INFO:root:Scoring time: 0.03 min
+INFO:root:validation [CTR] match: 98.65  success: 92.38  bleu: 15.69    score: 111.21
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 39.02 min
+INFO:root:Scoring time: 0.16 min
+INFO:root:validation [CTR] match: 93.56  success: 81.60  bleu: 18.07    score: 105.65
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 3.21 min
+INFO:root:Scoring time: 0.02 min
+INFO:root:validation [CTR] match: 100.00  success: 92.13  bleu: 19.43    score: 115.49
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 5.07 min
+INFO:root:Scoring time: 0.04 min
+INFO:root:validation [CTR] match: 96.06  success: 83.25  bleu: 19.12    score: 108.77
+INFO:root:inference time: 14.17 min
+INFO:root:Scoring time: 0.08 min
+INFO:root:validation [CTR] match: 94.97  success: 84.66  bleu: 18.66    score: 108.47
+INFO:root:inference time: 20.75 min
+INFO:root:Scoring time: 0.07 min
+INFO:root:validation [CTR] match: 91.10  success: 80.14  bleu: 16.16    score: 101.78
+INFO:root:save path:
+INFO:root:Encoding data now and save the encoded data in ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 40.42 min
+INFO:root:Scoring time: 0.19 min
+INFO:root:validation [CTR] match: 93.80  success: 82.60  bleu: 17.77    score: 105.97
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 3.72 min
+INFO:root:Scoring time: 0.03 min
+INFO:root:validation [CTR] match: 98.65  success: 92.83  bleu: 15.53    score: 111.27
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 36.62 min
+INFO:root:Scoring time: 0.16 min
+INFO:root:validation [CTR] match: 92.41  success: 79.67  bleu: 18.12    score: 104.15
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 3.74 min
+INFO:root:Scoring time: 0.02 min
+INFO:root:validation [CTR] match: 98.65  success: 92.38  bleu: 15.69    score: 111.21
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:save path:
+INFO:root:Reading encoded data from ./data/multi-woz-2.1-processed/new_db_se_blank_encoded.data.json
+INFO:root:train size:8434, dev size:999, test size:1000
+INFO:root:MODEL LOADED FROM THE DIRECTORY
+INFO:root:Generate setting: 
+	 use true_prev_bspn=False 
+	 use true_prev_aspn=False 
+	 use true_db_pointer=False 
+	 use true_prev_resp=False 
+	 use true_curr_bspn=False 
+	 use true_curr_aspn=False 
+	 use_all_previous_context=True
+INFO:root:***** Running Evaluation *****
+INFO:root:  Num Turns = 7372
+INFO:root:  Num Dialogs = 1000
+INFO:root:inference time: 3.74 min
+INFO:root:Scoring time: 0.02 min
+INFO:root:validation [CTR] match: 98.65  success: 92.83  bleu: 15.53    score: 111.27
